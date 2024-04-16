@@ -25,5 +25,13 @@ To complete the code for this analysis, I leveraged two fundamental Python libra
 FINAL FINDINGS.
 
 Through the analysis conducted in this project, it was found that the performance of tennis players, represented by their win percentages, varied noticeably across different playing surfaces, particularly hard court and clay. Across the three players examined — Novak Djokovic, Jannik Sinner, and Carlos Alcaraz — distinct patterns emerged in their performance on these surfaces. Novak Djokovic exhibited a relatively high win percentage on both hard court and clay, showcasing versatility in adapting to different surfaces. Jannik Sinner demonstrated a strong performance on hard court, while Carlos Alcaraz excelled predominantly on clay. These findings underscore the significant influence of playing surface on player success in tennis and emphasize the importance of surface-specific strategies and skills development for competitive performance.
-	
+
+
+ DISCUSSION.
+
+ The findings of this analysis underscore the significant influence of playing surface on player performance in tennis, aligning with existing research in the field. Novak Djokovic's consistent performance across surfaces highlights the importance of adaptability, while the surface-specific strengths demonstrated by Jannik Sinner and Carlos Alcaraz underscore the value of specialized training regimens. 
+ 
+ These results emphasize the need for players to develop proficiency tailored to specific playing conditions, as factors such as court speed, bounce, and player movement vary across surfaces, impacting match dynamics and outcomes. 
+ 
+ Moving forward, future research could explore additional factors contributing to player success on specific surfaces, such as playing style and mental fortitude, using advanced statistical modeling techniques and larger datasets to deepen our understanding of the nuanced relationship between players and playing surfaces.
 
